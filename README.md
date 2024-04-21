@@ -5,10 +5,6 @@
 ## Description :sparkles:
 BusFlex is a bus rental system that can help JMY Transport Malaysia streamline the bus rental process, enhance user experience, and provide convenience for both customers and staff. BusFlex enables customers to rent a bus online. It also allows the staff to easily manage the order of customers online.
 
-<h2>Phase 1- Project Proposal and Planning</h2>
-<p>Kanban Board link: <a href="https://github.com/users/chuahhw/projects/2">https://github.com/users/chuahhw/projects/2 </a></p>
-<p>Report link: <a href="https://drive.google.com/file/d/16QfILomYnkaP1cG6v7a6akyruR795mlZ/view?usp=sharing">Report.pdf</a></p>
-
 ## Our team :runner:
 <table>
   <tr>
@@ -32,3 +28,7 @@ BusFlex is a bus rental system that can help JMY Transport Malaysia streamline t
     <td>A23CS0276</td>
   </tr>
 </table>
+
+<h2>Phase 1- Project Proposal and Planning</h2>
+<p>Kanban Board link: <a href="https://github.com/users/chuahhw/projects/2">https://github.com/users/chuahhw/projects/2 </a></p>
+<p>Report link: <a href="https://drive.google.com/file/d/16QfILomYnkaP1cG6v7a6akyruR795mlZ/view?usp=sharing">Report.pdf</a></p>
