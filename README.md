@@ -36,4 +36,4 @@ BusFlex is a bus rental system that can help JMY Transport Malaysia streamline t
 
 <h2>Phase 2- Information System Gathering and Requirement</h2>
 <p>Kanban Board link: <a href="https://github.com/users/chuahhw/projects/2">https://github.com/users/chuahhw/projects/2 </a></p>
-<p>Report link: <a href="https://drive.google.com/file/d/1G3Uhg09T-MgwJCxRYP0xhLdGSnuKIWPl/view?usp=sharing">Report Phase 2.pdf</a></p>
+<p>Report link: <a href="https://drive.google.com/file/d/1Z11_fWrTeN4b1V0iT7EHSUrDSDk1Bb2_/view?usp=sharing">Report Phase 2.pdf</a></p>
